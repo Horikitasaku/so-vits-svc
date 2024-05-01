@@ -163,5 +163,12 @@ filelists/val.txt
 .idea/inspectionProfiles/Project_Default.xml
 pretrain/
 .vscode/launch.json
+<<<<<<< Updated upstream
 
 trained/**/
+=======
+*.pt
+*.pth
+.history
+models
+>>>>>>> Stashed changes
